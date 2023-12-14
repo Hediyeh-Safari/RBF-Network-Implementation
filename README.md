@@ -4,4 +4,5 @@ Creation of a Radial Basis Function Neural Network (RBF NN) featuring Gaussian k
 References:
 
 1- https://towardsdatascience.com/radial-basis-functions-neural-networks-all-we-need-to-know-9a88cc053448
+
 2- https://www.hackerearth.com/blog/developers/radial-basis-function-network/
